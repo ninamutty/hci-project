@@ -1,3 +1,5 @@
+import datetime
+
 reviews = [{'date': datetime.datetime(2021, 9, 29, 5, 2, 23),
   'isEdited': False,
   'rating': 4,
